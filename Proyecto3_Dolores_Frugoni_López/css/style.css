@@ -1,0 +1,63 @@
+table{
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'Shilia Compressed Medium';
+    src: url('fonts/ShiliaCompressedMedium.woff2') format('woff2'),
+         url('fonts/ShiliaCompressedMedium.woff') format('woff'),
+         url('fonts/ShiliaCompressedMedium.ttf') format('truetype');
+    font-style: normal;
+}
+
+tr{
+    font-family: "sans-serif";
+    color: black;
+    text-align: center;
+    font-family: 'Shilia Compressed Medium', sans-serif;
+    font-weight: bold;
+}
+
+.abajo{
+    vertical-align: bottom;
+}
+
+td:hover{
+    background-color: black;
+    color: white;
+    vertical-align: top;
+}
+
+.verdeClaro{
+    background-color: #b8f8a2;
+}
+.rojo{
+    background-color: #e7766e;
+}
+.celeste{
+    background-color: #c6f9f4;
+}
+.naranja{
+    background-color: #feddbc;
+}
+.verdeOscuro{
+    background-color: #d0c7a0;
+}
+.amarillo{
+    background-color: #f7fda5;
+}
+.gris{
+    background-color: #cccccc;
+}
+.salmon{
+    background-color: #f3cbc4;
+}
+.blanco{
+    background-color: #fcfcfb;
+}
+.rosita{
+    background-color: #edc5f6;
+}
+.rosa{
+    background-color: #f1a3ce;
+}
